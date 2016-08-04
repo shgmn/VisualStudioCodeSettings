@@ -3,6 +3,12 @@
 
 // エディターの構成
 
+    // フォント ファミリを制御します。
+    "editor.fontFamily": "MyricaM M",
+
+    // フォント サイズを制御します。
+    "editor.fontSize": 14,
+
     // 垂直ルーラーを表示する列
     "editor.rulers": [80, 120],
 
