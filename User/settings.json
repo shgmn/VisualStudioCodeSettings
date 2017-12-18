@@ -4,7 +4,7 @@
 // エディターの構成
 
     // フォント ファミリを制御します。
-    "editor.fontFamily": "Ricty",
+    "editor.fontFamily": "Ricty Diminished",
 
     // フォント サイズを制御します。
     "editor.fontSize": 14,
@@ -16,6 +16,6 @@
     "editor.renderWhitespace": true,
 
     // 既定の改行文字。
-    "files.eol": "\n"
-
+    "files.eol": "\n",
+    "workbench.colorTheme": "Solarized Dark"
 }
