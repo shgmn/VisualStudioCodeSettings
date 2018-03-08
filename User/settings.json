@@ -19,5 +19,9 @@
     "files.eol": "\n",
     "workbench.colorTheme": "Solarized Dark",
 
-    "files.trimTrailingWhitespace": true
+    // markdownでなければ末尾をtrimする
+    "files.trimTrailingWhitespace": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    }
 }
