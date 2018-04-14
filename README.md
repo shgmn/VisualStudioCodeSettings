@@ -13,7 +13,7 @@
 
 5. シンボリックリンクを張る
 
-    rm -rf /path/to/setting/User
+    rm -rf /path/to/setting/User  
     ln -s /path/to/setting/User User
 
 ## for Windows
