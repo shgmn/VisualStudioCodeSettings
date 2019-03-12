@@ -23,5 +23,8 @@
     "files.trimTrailingWhitespace": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false
-    }
+    },
+
+    // アイコン設定.
+    "workbench.iconTheme": "vscode-icons"
 }
